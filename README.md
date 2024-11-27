@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayur</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
+<img src="https://iconscout.com/lottie-animation/male-programmer-8928572">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurcoder2004&label=Profile%20views&color=0e75b6&style=flat" alt="mayurcoder2004" /> </p>
 
