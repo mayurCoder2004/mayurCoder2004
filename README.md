@@ -1,4 +1,4 @@
-# 👨‍💻 Mayur Pawar | Full Stack Developer
+# 👨‍💻 Mayur Pawar | Web Developer
 
 ## About Me
 I'm a passionate developer focused on creating scalable and efficient web applications with expertise in the MERN stack.
