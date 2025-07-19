@@ -70,11 +70,6 @@ I'm a full-stack web developer with a strong focus on frontend development and a
 
 <br/>
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-stats-ecru-sigma-63.vercel.app/api?username=mayurCoder2004&theme=tokyonight&show_icons=true&count_private=true" alt="GitHub Streak" />
-
-<br/>
-
 <!-- Top Languages -->
 <img src="https://github-readme-stats-ecru-sigma-63.vercel.app/api/top-langs/?username=mayurCoder2004&theme=tokyonight&layout=compact" alt="Top Languages" />
 
