@@ -65,13 +65,11 @@ I'm a full-stack web developer with a strong focus on frontend development and a
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats-ecru-sigma-63.vercel.app/api?username=mayurCoder2004&theme=tokyonight&show_icons=true&count_private=true" alt="Mayur's GitHub Stats" />
+<img src="https://github-readme-stats-ecru-sigma-63.vercel.app/api?username=mayurCoder2004&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="Mayur's GitHub Stats" />
 
 <br/>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats-ecru-sigma-63.vercel.app/api/top-langs/?username=mayurCoder2004&theme=tokyonight&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats-ecru-sigma-63.vercel.app/api/top-langs/?username=mayurCoder2004&layout=compact&count_private=true&theme=tokyonight" alt="Top Languages" />
 
 </div>
 
