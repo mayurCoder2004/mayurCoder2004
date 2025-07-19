@@ -64,12 +64,19 @@ I'm a full-stack web developer with a strong focus on frontend development and a
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  <img src="https://github-readme-stats-mayurcoder2004s-projects.vercel.app/api?username=mayurCoder2004&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  
-  <br/>
 
-  <img src="https://github-readme-stats-mayurcoder2004s-projects.vercel.app/api/top-langs/?username=mayurCoder2004&layout=compact&theme=radical&count_private=true" alt="Top Languages"/>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats-ecru-sigma-63.vercel.app/api?username=mayurCoder2004&theme=tokyonight&show_icons=true&count_private=true" alt="Mayur's GitHub Stats" />
+
+<br/>
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-stats-ecru-sigma-63.vercel.app/api?username=mayurCoder2004&theme=tokyonight&show_icons=true&count_private=true" alt="GitHub Streak" />
+
+<br/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats-ecru-sigma-63.vercel.app/api/top-langs/?username=mayurCoder2004&theme=tokyonight&layout=compact" alt="Top Languages" />
 
 </div>
 
@@ -85,5 +92,5 @@ I'm a full-stack web developer with a strong focus on frontend development and a
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayurcoder2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=mayurcoder2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
