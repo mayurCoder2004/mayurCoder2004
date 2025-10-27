@@ -61,8 +61,19 @@ I'm a full-stack web developer with a strong focus on frontend development and a
 
 ---
 
-## 🎃 Hacktoberfest
-[![@mayurcoder2004's Holopin board](https://holopin.me/mayurcoder2004)](https://www.holopin.io/@mayurcoder2004)
+## 🏅 My Holopin Badges
+<p align="center">
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Holopin Badge" width="100" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" alt="Holopin Badge lvl0-human" width="100" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" alt="Holopin Badge lvl1-human" width="100" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" alt="Holopin Badge lvl2-human" width="100" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" alt="Holopin Badge lvl3-human" width="100" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" alt="Holopin Badge lvl4-human" width="100" />
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Holopin Badge" width="100" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" alt="Holopin Badge lvl5-human" width="100" />
+</p>
+
+[![View My Holopin Profile](https://img.shields.io/badge/Holopin-Profile-blueviolet?style=for-the-badge&logo=holopin)](https://www.holopin.io/@mayurcoder2004)
 
 ---
 
