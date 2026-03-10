@@ -82,14 +82,52 @@ I'm a full-stack web developer with a strong focus on frontend development and a
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=mayurCoder2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mayurCoder2004&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurCoder2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mayurCoder2004&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mayurCoder2004&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies Row 1" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Mayur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mayurCoder2004&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 📋 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayurCoder2004&theme=radical" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayurCoder2004&theme=radical" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayurCoder2004&theme=radical" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mayurCoder2004&theme=radical" alt="Stats" />
+</p>
+
+## 💬 Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=mayurCoder2004&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🤝 Connect With Me
 
