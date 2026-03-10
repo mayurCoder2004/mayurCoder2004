@@ -90,14 +90,6 @@ I'm a full-stack web developer with a strong focus on frontend development and a
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayurCoder2004&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies Row 1" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 [![Mayur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mayurCoder2004&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
